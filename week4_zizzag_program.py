@@ -3,7 +3,8 @@ import time
 indent = 0 # How many spaces to indent.
 indentIncreasing = True # Whether the indentation is increasing or not.
 
-while True: # The main program loop.
+try:
+    while True: # The main program loop.
         print(' ' * indent, end='')
         print('********')
         time.sleep(0.1) # Pause for 1/10 of a second.
@@ -21,3 +22,5 @@ while True: # The main program loop.
             if indent == 0:
                 # Change direction:
                 indentIncreasing = True
+except BaseException as e: # base exception contains inside KeyboardInterrupt error
+    print("thanks for running`")
