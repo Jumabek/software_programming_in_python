@@ -23,4 +23,5 @@ try:
                 # Change direction:
                 indentIncreasing = True
 except BaseException as e: # base exception contains inside KeyboardInterrupt error
+    print('error message',repr(e)) # https://stackoverflow.com/questions/1483429/how-do-i-print-an-exception-in-python
     print("thanks for running`")
