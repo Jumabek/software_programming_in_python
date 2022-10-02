@@ -6,7 +6,7 @@ students = [
     , 'Kian Crane'
     ,'Presley Cooper'
     ,'Jaeden Yu'
-    ,'LorenzoptionLawrence'
+    ,'Lorenzoption Lawrence'
     ,'Lindsey Mcdonald'
     ,'Grace Rivers'
     ,'Lawrence Giles'
