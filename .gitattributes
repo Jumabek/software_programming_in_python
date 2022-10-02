@@ -1,0 +1,7 @@
+week3_2-Flow[[:space:]]Control.ipynb filter=lfs diff=lfs merge=lfs -text
+week4-Functions.ipynb filter=lfs diff=lfs merge=lfs -text
+week5-Lists.ipynb filter=lfs diff=lfs merge=lfs -text
+week2_1[[:space:]]and[[:space:]]week[[:space:]]2_2[[:space:]].ipynb filter=lfs diff=lfs merge=lfs -text
+week3_1-Flow[[:space:]]Control.ipynb filter=lfs diff=lfs merge=lfs -text
+*.docx filter=lfs diff=lfs merge=lfs -text
+individual_project_sample/alikhanov_jumabek[[:space:]]-[[:space:]]individual[[:space:]]project[[:space:]]documentation[[:space:]](1).docx filter=lfs diff=lfs merge=lfs -text
