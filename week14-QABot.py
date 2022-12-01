@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = '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'#os.getenv("OPENAI_API_KEY")
+openai.api_key = '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'#os.getenv("OPENAI_API_KEY")
 
 def my_function(question):
     # how many paramts we are passing? 
