@@ -2,3 +2,5 @@
 __pycache__/
 downloads/
 */.ipynb_checkpoints/
+*/.log
+*.log
